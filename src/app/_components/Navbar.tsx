@@ -884,8 +884,8 @@ const Navbar = () => {
                 onClick={() => setIsOpenMenu(false)}
               /> */}
 
-              <div className="px-5 py-5">
-                <button className="bg-[#448C74] text-white text-lg  py-2 px-36 rounded-2xl flex items-center gap-2">
+              <div className="px-5 py-4 flex items-center justify-center ">
+                <button className="bg-[#448C74] text-white text-lg  flex items-center py-3 px-28  rounded-xl   gap-2">
                   <FiShoppingCart className="h-5 w-5" />
                   Buy Now
                 </button>

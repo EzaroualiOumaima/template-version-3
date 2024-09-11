@@ -82,7 +82,7 @@ const Pricing = () => {
                 </p>
               </div>
             </div>
-            <div className="flex flex-col gap-4 mr-12">
+            <div className="flex flex-col gap-4">
               <div className="flex items-center gap-2">
                 <IoCheckmark className="w-5 h-5 text-green-400" />
                 <p className="text-[#576071] text-[16px] dark:text-slate-300 ">
